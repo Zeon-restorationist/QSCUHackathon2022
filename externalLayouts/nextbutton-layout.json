@@ -1,0 +1,34 @@
+{
+  "associatedLayout": "Title Screen",
+  "name": "NextButton Layout",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 64,
+      "layer": "",
+      "name": "NextButton",
+      "persistentUuid": "6737cd7f-c022-488c-bb92-257a39910580",
+      "width": 136,
+      "x": 617,
+      "y": 501,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 1,
+    "windowMask": false
+  }
+}

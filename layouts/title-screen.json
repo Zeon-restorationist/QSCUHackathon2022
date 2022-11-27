@@ -26,11 +26,56 @@
   "instances": [
     {
       "angle": 0,
+      "customSize": true,
+      "height": 213,
+      "layer": "",
+      "name": "SomaliaFlag",
+      "persistentUuid": "51805487-4e15-4186-b163-fbfd7bec43b8",
+      "width": 375,
+      "x": 39,
+      "y": 139,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 92,
+      "layer": "",
+      "name": "BackroundInfo",
+      "persistentUuid": "390604f9-9eab-4ee2-b1de-760d88cdb53e",
+      "width": 586,
+      "x": 33,
+      "y": 458,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "TitleText",
-      "persistentUuid": "2f78e76d-5303-4d49-bec9-dbfdfd958301",
+      "name": "BackgroundTitle",
+      "persistentUuid": "b382fba4-83e9-47c8-b4e6-5903022c4557",
+      "width": 0,
+      "x": 32,
+      "y": 418,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+      },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "BackgroundTitle",
+      "persistentUuid": "b382fba4-83e9-47c8-b4e6-5903022c4557",
       "width": 0,
       "x": 231,
       "y": 12,
@@ -103,6 +148,68 @@
   "objects": [
     {
       "assetStoreId": "",
+      "name": "SomaliaFlag",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "assets\\Flag_of_Somalia.svg.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "BackroundInfo",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "You are an extremely wealthy individual who currently resides in Somalia. You notice that there is poverty everywhere, and poor education. With your vast wealth, you have the power to improve Somalia's economy or choose to do nothing. The choice is yours.",
+      "font": "fonts\\PatrickHand-Regular.ttf",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      }
+    },
+    {
+      "assetStoreId": "",
       "name": "startgame",
       "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -159,9 +266,10 @@
     },
     {
       "assetStoreId": "",
-      "bold": true,
+      "bold": false,
+
       "italic": false,
-      "name": "TitleText",
+      "name": "BackgroundTitle",
       "smoothed": true,
       "tags": "",
       "type": "TextObject::Text",
@@ -177,6 +285,54 @@
         "g": 255,
         "r": 255
       }
+    },
+    {
+      "assetStoreId": "",
+      "name": "NewBitmapText",
+      "tags": "",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
+        "opacity": 255,
+        "scale": 1,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "fonts\\PatrickHand.fnt",
+        "textureAtlasResourceName": "",
+        "align": "left",
+        "wordWrap": true
+      }
+    }
+  ],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
+          },
+          "parameters": [
+            "",
+            "\"NextButton Layout\"",
+            "",
+            ""
+          ]
+          }
+      ]
     },
     {
       "assetStoreId": "",
@@ -222,6 +378,7 @@
       ]
     },
     {
+
       "assetStoreId": "",
       "bottomMargin": 0,
       "height": 600,
