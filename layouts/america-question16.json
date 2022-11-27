@@ -325,7 +325,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
+                  "image": "assets/1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -366,7 +366,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "E_SDG_goals_icons-individual-rgb-10.png",
+                  "image": "assets/E_SDG_goals_icons-individual-rgb-10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
