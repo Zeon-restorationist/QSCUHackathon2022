@@ -1,0 +1,349 @@
+{
+  "firstLayout": "China Question1",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "5bc7e4bc-b9f9-4196-92c3-69305f82ca25",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "Sustainability Adventure Game",
+    "description": "",
+    "author": "",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0.2,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": false,
+      "showProgressBar": false
+    },
+    "authorIds": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "finding-picking-up-money-floor-male-hand-one-dollar-bill-ground-194233152.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "finding-picking-up-money-floor-male-hand-one-dollar-bill-ground-194233152.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1000_F_142221605_a0zYISbuUJSDVaG6MQinPR2XIvRuPUuq.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "1000_F_142221605_a0zYISbuUJSDVaG6MQinPR2XIvRuPUuq.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gettyimages-1238294371-612x612.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "gettyimages-1238294371-612x612.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "28229583-young-male-hitchhiker-looking-for-a-lift-talking-to-a-female-driver-through-the-passenger-window-of-.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "28229583-young-male-hitchhiker-looking-for-a-lift-talking-to-a-female-driver-through-the-passenger-window-of-.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stock-photo-homeless-child-lay-down-on-father-lap-on-a-street-in-city-son-get-sad-and-hopeless-because-of-1873753768.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "stock-photo-homeless-child-lay-down-on-father-lap-on-a-street-in-city-son-get-sad-and-hopeless-because-of-1873753768.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG-goals_icons-individual-rgb-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG-goals_icons-individual-rgb-01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG_goals_icons-individual-rgb-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG_goals_icons-individual-rgb-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sustainable_Development_Goal_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sustainable_Development_Goal_16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG goals_icons-individual-rgb-08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG goals_icons-individual-rgb-08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG-goals_icons-individual-rgb-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG-goals_icons-individual-rgb-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sustainable_Development_Goal_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sustainable_Development_Goal_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1*2GWKTgDS9-3KL8xXt5-12A.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "1*2GWKTgDS9-3KL8xXt5-12A.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1-southeastasi.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "1-southeastasi.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bubbler.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bubbler.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sustainable_Development_Goal_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sustainable_Development_Goal_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "cruel-group-teens-pointing-fingers-curly-afro-american-schoolgirl-racism-stock-photo-159228001.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "cruel-group-teens-pointing-fingers-curly-afro-american-schoolgirl-racism-stock-photo-159228001.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "image-6701770-98183c005c5e19564df0e850b6352641-kids--is-comparing-your-child-to-others-so-bad_3.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "image-6701770-98183c005c5e19564df0e850b6352641-kids--is-comparing-your-child-to-others-so-bad_3.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "istockphoto-1217752899-1024x1024.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "istockphoto-1217752899-1024x1024.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG-goals_icons-individual-rgb-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG-goals_icons-individual-rgb-02.png",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "ScoreIs",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Your current score : 0",
+      "font": "",
+      "characterSize": 20,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    }
+  ],
+  "objectsGroups": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Score",
+      "type": "number",
+      "value": 0
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-question6"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-question5"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-question4"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-question3"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-question2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-question1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/title-screen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-ending-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-ending-2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/china-ending-3"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    }
+  ],
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/ui-score"
+    }
+  ],
+  "externalSourceFiles": []
+}
