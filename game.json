@@ -1131,14 +1131,7 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/worst-ending-somalia"
-    }
-  ],
-  "externalEvents": [
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalEvents/three-choices-extern--event"
-
-      },
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/introduction"
@@ -1151,6 +1144,13 @@
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/finishing-scene"
     }
+  ],
+  "externalEvents": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/three-choices-extern--event"
+
+      }
   ],
   "eventsFunctionsExtensions": [
     {
