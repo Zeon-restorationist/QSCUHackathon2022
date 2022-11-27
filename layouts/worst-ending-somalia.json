@@ -53,6 +53,21 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 57,
+      "layer": "",
+      "name": "continue",
+      "persistentUuid": "4e332faf-1ceb-4c61-a13d-9e4e2441f6d3",
+      "width": 107,
+      "x": 347,
+      "y": 407,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -68,9 +83,9 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "BAD ENDING:\nYou are NOT THAT GENEROUS!!!!  You did not really improve Somalia's infrastructure. It’s quite a shame, with your vast amounts of wealth you could have helped the many residents of Somalia. Sustainability score: 0%. YOU LOST THE GAME!!!! I think you should try again….\n",
+      "string": "BAD ENDING:\nYou did not improve Somalia's infrastructure. It’s quite a shame, with your wealth you could have helped the many residents of Somalia. Sustainability score: 0%. \n",
       "font": "fonts\\PatrickHand-Regular.ttf",
-      "characterSize": 30,
+      "characterSize": 18,
       "color": {
         "b": 0,
         "g": 0,
@@ -126,6 +141,13 @@
         "includeConfig": 0
       },
       "target": "Three Choices Extern. Event"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": ""
     }
   ],
   "layers": [

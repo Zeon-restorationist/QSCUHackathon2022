@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "startpage",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -62,7 +62,7 @@
         "file": "assets/Flag_of_Somalia.svg.png",
         "kind": "image",
         "metadata": "",
-        "name": "assets\\Flag_of_Somalia.svg.png",        
+        "name": "assets\\Flag_of_Somalia.svg.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -74,9 +74,7 @@
         "name": "4.png",
         "smoothed": true,
         "userAdded": false
-
       },
-      
       {
         "alwaysLoaded": false,
         "file": "assets/Blue Button_Hovered.png",
@@ -572,7 +570,6 @@
         "name": "assets\\emptyfoodbank.jpg",
         "smoothed": true,
         "userAdded": true
-
       },
       {
         "alwaysLoaded": false,
@@ -591,8 +588,8 @@
         "name": "assets\\inequality.jpg",
         "smoothed": true,
         "userAdded": true
-       },
-       {
+      },
+      {
         "alwaysLoaded": false,
         "file": "assets/4.png",
         "kind": "image",
@@ -609,8 +606,8 @@
         "name": "assets\\youwin.jpg",
         "smoothed": true,
         "userAdded": true
-       },
-       {
+      },
+      {
         "alwaysLoaded": false,
         "file": "assets/2.png",
         "kind": "image",
@@ -672,7 +669,7 @@
         "name": "assets\\worstendingsomalia.jpg",
         "smoothed": true,
         "userAdded": true
-        },
+      },
       {
         "alwaysLoaded": false,
         "file": "assets/Idle-4.png",
@@ -1062,6 +1059,62 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "continue",
+      "tags": "",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {},
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Idle": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Continue",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        }
+      }
     }
   ],
   "objectsGroups": [
@@ -1089,12 +1142,30 @@
       "name": "Score",
       "type": "number",
       "value": 0
+    },
+    {
+      "name": "completed",
+      "type": "array",
+      "children": [
+        {
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "type": "boolean",
+          "value": false
+        }
+      ]
     }
   ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/title-screen"
+      "referenceTo": "/layouts/somaliaintro"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -1143,14 +1214,21 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/finishing-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/startpage"
     }
   ],
   "externalEvents": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalEvents/three-choices-extern--event"
-
-      }
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/countrycomplete"
+    }
   ],
   "eventsFunctionsExtensions": [
     {

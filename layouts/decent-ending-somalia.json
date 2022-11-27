@@ -53,6 +53,21 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 50,
+      "layer": "",
+      "name": "continue",
+      "persistentUuid": "7a8699b1-4302-4ddd-9fac-170abfec2f65",
+      "width": 84,
+      "x": 360,
+      "y": 463,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -70,7 +85,7 @@
       "behaviors": [],
       "string": "DECENT ENDING:\nYou are generous. You improved only some aspects of Somalia’s infrastructure. However, you could have done much better. You are extremely wealthy and that wealth could have been spent on better things. Sustainability score: 50%\n",
       "font": "fonts\\PatrickHand-Regular.ttf",
-      "characterSize": 30,
+      "characterSize": 18,
       "color": {
         "b": 0,
         "g": 0,
@@ -126,6 +141,13 @@
         "includeConfig": 0
       },
       "target": "Three Choices Extern. Event"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "countrycomplete"
     }
   ],
   "layers": [

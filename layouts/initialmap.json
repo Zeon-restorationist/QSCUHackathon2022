@@ -456,16 +456,7 @@
           ]
         }
       ],
-      "actions": [
-        {
-          "type": {
-            "value": "Quit"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ]
+      "actions": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -497,7 +488,18 @@
           ]
         }
       ],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"somaliaIntro\"",
+            ""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -546,9 +548,12 @@
       "conditions": [
         {
           "type": {
-            "value": "BuiltinCommonInstructions::Not"
+            "value": "GlobalVariableAsBoolean"
           },
-          "parameters": []
+          "parameters": [
+            "completed[0]",
+            "True"
+          ]
         }
       ],
       "actions": [
@@ -561,6 +566,11 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",

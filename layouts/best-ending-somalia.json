@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 1,
+    "zoomFactor": 0.95,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -53,6 +53,21 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 41,
+      "layer": "",
+      "name": "continue",
+      "persistentUuid": "aedeb511-8c81-4e03-8b71-e12869332001",
+      "width": 104,
+      "x": 350,
+      "y": 485,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -70,7 +85,7 @@
       "behaviors": [],
       "string": "BEST ENDING:\nYou are a very generous person. You improved Somalia’s sustainable development goals. Your sustainability score: 100%. You are AMAZING!! You did many of the sustainable development goals. You won the game!!\n",
       "font": "fonts\\PatrickHand-Regular.ttf",
-      "characterSize": 30,
+      "characterSize": 18,
       "color": {
         "b": 0,
         "g": 0,
@@ -126,6 +141,13 @@
         "includeConfig": 0
       },
       "target": "Three Choices Extern. Event"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "countrycomplete"
     }
   ],
   "layers": [
