@@ -72,21 +72,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "height": 598,
-      "layer": "",
-      "name": "NewPanelSprite",
-      "persistentUuid": "4ad4158d-7247-4713-9938-bf722f804cc3",
-      "width": 784,
-      "x": -3,
-      "y": 3,
-      "zOrder": 4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "height": 46,
       "layer": "",
       "name": "Next",
@@ -95,21 +80,6 @@
       "x": 656,
       "y": 539,
       "zOrder": 10,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "height": 120,
-      "layer": "",
-      "name": "Dialogue2",
-      "persistentUuid": "595f88bf-8814-4fd0-873b-e1a5ec7d6d78",
-      "width": 784,
-      "x": 151,
-      "y": 808,
-      "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -224,18 +194,6 @@
     {
       "assetStoreId": "",
       "height": 600,
-      "name": "NewTiledSprite",
-      "tags": "",
-      "texture": "4.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 800,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "",
-      "height": 600,
       "name": "NewTiledSprite2",
       "tags": "",
       "texture": "1.png",
@@ -265,7 +223,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Idle-1.png",
+                  "image": "assets\\Idle-1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -282,7 +240,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Idle-2.png",
+                  "image": "assets\\Idle-2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -299,7 +257,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Idle-3.png",
+                  "image": "assets\\Idle-3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -316,7 +274,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Idle-4.png",
+                  "image": "assets\\Idle-4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -336,35 +294,6 @@
           ]
         }
       ]
-    },
-    {
-      "assetStoreId": "",
-      "height": 32,
-      "name": "textContainer",
-      "tags": "",
-      "texture": "NewFile-1.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 800,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "",
-      "bottomMargin": 0,
-      "height": 80,
-      "leftMargin": 0,
-      "name": "NewPanelSprite",
-      "rightMargin": 0,
-      "tags": "",
-      "texture": "NewFile-1-0.png",
-      "tiled": false,
-      "topMargin": 0,
-      "type": "PanelSpriteObject::PanelSprite",
-      "width": 800,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
     },
     {
       "assetStoreId": "",

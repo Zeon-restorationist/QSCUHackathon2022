@@ -326,6 +326,114 @@
         "name": "USAbluefill-1-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/border-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\border-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/USAbluefill-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\USAbluefill-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PngItem_41856-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PngItem_41856-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/chinabluefill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\chinabluefill.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/somaliabluefill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\somaliabluefill.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
