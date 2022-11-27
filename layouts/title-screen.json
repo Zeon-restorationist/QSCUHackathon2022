@@ -68,21 +68,6 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "height": 64,
-      "layer": "",
-      "name": "NextButton",
-      "persistentUuid": "b88c30b6-b367-4464-9e46-e843310ae467",
-      "width": 136,
-      "x": 617,
-      "y": 501,
-      "zOrder": 5,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
     }
   ],
   "objects": [
@@ -170,262 +155,6 @@
       }
     },
     {
-      "assetStoreId": "90d94b6e3a23c34948e59eaaef4679740f8ab588696d59b21e0c0c2ef106b94d",
-      "name": "NextButton",
-      "tags": "",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "LeftPadding": 16,
-        "RightPadding": 16,
-        "PressedLabelOffsetY": 10,
-        "IdleLabelOffsetY": -8,
-        "BottomPadding": 32,
-        "TopPadding": 16,
-        "MinimalWidth": 300
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Blue Button_Hovered.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Idle": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Blue Button_Idle.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "Next",
-          "font": "fonts\\PatrickHand-Regular.ttf",
-          "characterSize": 30,
-          "color": {
-            "b": 99,
-            "g": 69,
-            "r": 28
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 16,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Blue Button_Pressed.png",
-          "tiled": true,
-          "topMargin": 32,
-          "width": 256
-        }
-      }
-    },
-    {
-      "assetStoreId": "b44dba91245ff1ac84a7b450e078194f19321d135fd8a67cd19bc9cb3403fba5",
-      "name": "GreenButton",
-      "tags": "",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "LeftPadding": 16,
-        "RightPadding": 16,
-        "PressedLabelOffsetY": 10,
-        "IdleLabelOffsetY": -8,
-        "BottomPadding": 32,
-        "TopPadding": 16,
-        "MinimalWidth": 300
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Green Button_Hovered.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Idle": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Green Button_Idle.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "Button",
-          "font": "",
-          "characterSize": 60,
-          "color": {
-            "b": 29,
-            "g": 99,
-            "r": 62
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 16,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Green Button_Pressed.png",
-          "tiled": true,
-          "topMargin": 32,
-          "width": 256
-        }
-      }
-    },
-    {
-      "assetStoreId": "0d3f4843e5ebb7af30fd80adf19a1c5a14164c1283f344991dc2aa14067a1262",
-      "name": "RedButton",
-      "tags": "",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "LeftPadding": 16,
-        "RightPadding": 16,
-        "PressedLabelOffsetY": 10,
-        "IdleLabelOffsetY": -8,
-        "BottomPadding": 32,
-        "TopPadding": 16,
-        "MinimalWidth": 300
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Red Button_Hovered.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Idle": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Red Button_Idle.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "Button",
-          "font": "",
-          "characterSize": 60,
-          "color": {
-            "b": 16,
-            "g": 38,
-            "r": 111
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 16,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Red Button_Pressed.png",
-          "tiled": true,
-          "topMargin": 32,
-          "width": 256
-        }
-      }
-    },
-    {
-      "assetStoreId": "bfab3a269992cf43081e2cb8053c28aaef11f2f9e0d0cbdc00207ea271f69c2c",
-      "name": "GreyButton",
-      "tags": "",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "LeftPadding": 16,
-        "RightPadding": 16,
-        "PressedLabelOffsetY": 10,
-        "IdleLabelOffsetY": -8,
-        "BottomPadding": 32,
-        "TopPadding": 16,
-        "MinimalWidth": 300
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Hovered.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Idle": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Idle.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "Button",
-          "font": "",
-          "characterSize": 60,
-          "color": {
-            "b": 79,
-            "g": 72,
-            "r": 72
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 16,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Pressed.png",
-          "tiled": true,
-          "topMargin": 32,
-          "width": 256
-        }
-      }
-    },
-    {
       "assetStoreId": "",
       "name": "NewBitmapText",
       "tags": "",
@@ -447,6 +176,32 @@
     }
   ],
   "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
+          },
+          "parameters": [
+            "",
+            "\"NextButton Layout\"",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
