@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "America Question1",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -56,25 +56,227 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "finding-picking-up-money-floor-male-hand-one-dollar-bill-ground-194233152.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "finding-picking-up-money-floor-male-hand-one-dollar-bill-ground-194233152.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1000_F_142221605_a0zYISbuUJSDVaG6MQinPR2XIvRuPUuq.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "1000_F_142221605_a0zYISbuUJSDVaG6MQinPR2XIvRuPUuq.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "gettyimages-1238294371-612x612.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "gettyimages-1238294371-612x612.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "28229583-young-male-hitchhiker-looking-for-a-lift-talking-to-a-female-driver-through-the-passenger-window-of-.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "28229583-young-male-hitchhiker-looking-for-a-lift-talking-to-a-female-driver-through-the-passenger-window-of-.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "stock-photo-homeless-child-lay-down-on-father-lap-on-a-street-in-city-son-get-sad-and-hopeless-because-of-1873753768.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "stock-photo-homeless-child-lay-down-on-father-lap-on-a-street-in-city-son-get-sad-and-hopeless-because-of-1873753768.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG-goals_icons-individual-rgb-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG-goals_icons-individual-rgb-01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG_goals_icons-individual-rgb-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG_goals_icons-individual-rgb-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sustainable_Development_Goal_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sustainable_Development_Goal_16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG goals_icons-individual-rgb-08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG goals_icons-individual-rgb-08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "E_SDG-goals_icons-individual-rgb-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG-goals_icons-individual-rgb-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sustainable_Development_Goal_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sustainable_Development_Goal_3.png",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
     "resourceFolders": []
   },
-  "objects": [],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "ScoreIs",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Your current score : 0",
+      "font": "",
+      "characterSize": 20,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    }
+  ],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Score",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-question16"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-question15"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-question14"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-question13"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-question12"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-question1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/title-screen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-ending-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-ending-2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/america-ending-3"
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/untitled-external-events"
+    }
+  ],
   "eventsFunctionsExtensions": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
     }
   ],
-  "externalLayouts": [],
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/ui-score"
+    }
+  ],
   "externalSourceFiles": []
 }
