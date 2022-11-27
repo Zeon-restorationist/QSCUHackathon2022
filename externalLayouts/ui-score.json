@@ -1,0 +1,34 @@
+{
+  "associatedLayout": "America Question1",
+  "name": "UI Score",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "ScoreIs",
+      "persistentUuid": "25b0bae8-d861-4a4f-a531-ef6a567bc73f",
+      "width": 0,
+      "x": 323,
+      "y": 528,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 1,
+    "windowMask": false
+  }
+}

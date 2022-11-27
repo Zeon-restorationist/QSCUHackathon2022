@@ -95,6 +95,39 @@
       "x": -5070,
       "y": 317,
       "zOrder": 11,
+      "x": 63,
+      "y": 245,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 24,
+      "layer": "",
+      "name": "backgrounddesc",
+      "persistentUuid": "dc22614c-4c09-479b-ba82-51318a28fa60",
+      "width": 588,
+      "x": 62,
+      "y": 336,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 105,
+      "layer": "",
+      "name": "NewButton",
+      "persistentUuid": "9945bf0e-dc99-4e9f-bf4b-30bc748f0b2a",
+      "width": 137,
+      "x": 589,
+      "y": 448,
+      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -170,6 +203,7 @@
       "effects": [],
       "behaviors": [],
       "string": "Sustainable living",
+      "string": "Background:",
       "font": "",
       "characterSize": 40,
       "color": {
@@ -241,6 +275,28 @@
     {
       "assetStoreId": "",
       "name": "score",
+      "bold": false,
+      "italic": false,
+      "name": "backgrounddesc",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "You are a poor homeless person, try to survive for your live in a rough environment of America. Try to make a great choices as this role in order to achive sustainability with every little you have.",
+      "font": "",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "NewButton",
       "tags": "",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
@@ -264,6 +320,7 @@
           "leftMargin": 0,
           "rightMargin": 0,
           "texture": "",
+          "texture": "NewFile-1.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -280,6 +337,13 @@
             "b": 255,
             "g": 255,
             "r": 255
+          "string": "Start",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
           }
         },
         "Pressed": {
@@ -305,6 +369,7 @@
           },
           "parameters": [
             "startgame",
+            "NewButton",
             ""
           ]
         }
@@ -318,6 +383,11 @@
             "",
             "\"Introduction\"",
             ""
+            "value": "PushScene"
+          },
+          "parameters": [
+            "",
+            "\"America Question1\""
           ]
         }
       ]
