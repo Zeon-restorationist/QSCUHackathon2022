@@ -1,5 +1,5 @@
 {
-  "firstLayout": "America Question1",
+  "firstLayout": "Title Screen",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -113,15 +113,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewFile-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewFile-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewFile-1-0.png",
         "kind": "image",
         "metadata": "",
@@ -180,6 +171,51 @@
         "kind": "image",
         "metadata": "",
         "name": "Sustainable_Development_Goal_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/finding-picking-up-money-floor-male-hand-one-dollar-bill-ground-194233152.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/finding-picking-up-money-floor-male-hand-one-dollar-bill-ground-194233152.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/E_SDG-goals_icons-individual-rgb-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/E_SDG-goals_icons-individual-rgb-01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/E_SDG_goals_icons-individual-rgb-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/E_SDG_goals_icons-individual-rgb-10.png",
         "smoothed": true,
         "userAdded": true
       }

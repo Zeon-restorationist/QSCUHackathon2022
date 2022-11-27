@@ -32,9 +32,39 @@
       "name": "TitleText",
       "persistentUuid": "2f78e76d-5303-4d49-bec9-dbfdfd958301",
       "width": 0,
-      "x": 224,
-      "y": 36,
+      "x": 63,
+      "y": 245,
       "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 24,
+      "layer": "",
+      "name": "backgrounddesc",
+      "persistentUuid": "dc22614c-4c09-479b-ba82-51318a28fa60",
+      "width": 588,
+      "x": 62,
+      "y": 336,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 105,
+      "layer": "",
+      "name": "NewButton",
+      "persistentUuid": "9945bf0e-dc99-4e9f-bf4b-30bc748f0b2a",
+      "width": 137,
+      "x": 589,
+      "y": 448,
+      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -53,7 +83,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Title Screen",
+      "string": "Background:",
       "font": "",
       "characterSize": 60,
       "color": {
@@ -61,9 +91,112 @@
         "g": 255,
         "r": 255
       }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "backgrounddesc",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "You are a poor homeless person, try to survive for your live in a rough environment of America. Try to make a great choices as this role in order to achive sustainability with every little you have.",
+      "font": "",
+      "characterSize": 20,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "NewButton",
+      "tags": "",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {},
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Idle": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "NewFile-1.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Start",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        }
+      }
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+          },
+          "parameters": [
+            "NewButton",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PushScene"
+          },
+          "parameters": [
+            "",
+            "\"America Question1\""
+          ]
+        }
+      ]
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 0,
