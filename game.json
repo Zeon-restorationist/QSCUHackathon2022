@@ -59,6 +59,38 @@
     "resources": [
       {
         "alwaysLoaded": false,
+
+        "file": "4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/craftpix-net-665906-free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 1/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\craftpix-net-665906-free-sky-with-clouds-background-pixel-art-set\\Clouds\\Clouds 1\\4.png",
         "file": "finding-picking-up-money-floor-male-hand-one-dollar-bill-ground-194233152.jpeg",
         "kind": "image",
         "metadata": "",
@@ -68,6 +100,10 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "startbutton-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "startbutton-1.png",
         "file": "1000_F_142221605_a0zYISbuUJSDVaG6MQinPR2XIvRuPUuq.jpeg",
         "kind": "image",
         "metadata": "",
@@ -77,6 +113,19 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "startbutton-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "startbutton-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/craftpix-net-481510-free-townspeople-cyberpunk-pixel-art/4/Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\craftpix-net-481510-free-townspeople-cyberpunk-pixel-art\\4\\Idle.png",
         "file": "gettyimages-1238294371-612x612.jpeg",
         "kind": "image",
         "metadata": "",
@@ -86,6 +135,10 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle.png",
         "file": "28229583-young-male-hitchhiker-looking-for-a-lift-talking-to-a-female-driver-through-the-passenger-window-of-.jpeg",
         "kind": "image",
         "metadata": "",
@@ -95,6 +148,10 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "Idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle-1.png",
         "file": "stock-photo-homeless-child-lay-down-on-father-lap-on-a-street-in-city-son-get-sad-and-hopeless-because-of-1873753768.jpeg",
         "kind": "image",
         "metadata": "",
@@ -104,6 +161,10 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "Idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Idle-2.png",
         "file": "1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
         "kind": "image",
         "metadata": "",
@@ -113,64 +174,19 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewFile-1-0.png",
+        "file": "Idle-3.png",
         "kind": "image",
         "metadata": "",
-        "name": "NewFile-1-0.png",
+        "name": "Idle-3.png",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "E_SDG-goals_icons-individual-rgb-01.png",
+        "file": "Idle-4.png",
         "kind": "image",
         "metadata": "",
-        "name": "E_SDG-goals_icons-individual-rgb-01.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "E_SDG_goals_icons-individual-rgb-10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "E_SDG_goals_icons-individual-rgb-10.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Sustainable_Development_Goal_16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sustainable_Development_Goal_16.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "E_SDG goals_icons-individual-rgb-08.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "E_SDG goals_icons-individual-rgb-08.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "E_SDG-goals_icons-individual-rgb-13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "E_SDG-goals_icons-individual-rgb-13.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Sustainable_Development_Goal_3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sustainable_Development_Goal_3.png",
+        "name": "Idle-4.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -181,10 +197,269 @@
         "metadata": "",
         "name": "NewFile-1.png",
         "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "world map.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "world map.png",
+        "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
+        "file": "NewFile-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+
+        "file": "border-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "border-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PngItem_41856.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PngItem_41856.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PngItem_41856-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PngItem_41856-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "chinagreyfill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chinagreyfill.png",
+
+        "file": "E_SDG-goals_icons-individual-rgb-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG-goals_icons-individual-rgb-01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PngItem_41856-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PngItem_41856-12.png",
+        "file": "E_SDG_goals_icons-individual-rgb-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG_goals_icons-individual-rgb-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PngItem_41856-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PngItem_41856-13.png",
+        "file": "Sustainable_Development_Goal_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sustainable_Development_Goal_16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/chinabluefill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\chinabluefill.png",
+        "file": "E_SDG goals_icons-individual-rgb-08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG goals_icons-individual-rgb-08.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "chinabluefill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chinabluefill.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "USAgreyfill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "USAgreyfill.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "USAbluefill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "USAbluefill.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "somaliagreyfill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "somaliagreyfill.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "somaliabluefill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "somaliabluefill.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "USAbluefill-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "USAbluefill-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "USAbluefill-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "USAbluefill-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\4.png",
+        "file": "E_SDG-goals_icons-individual-rgb-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "E_SDG-goals_icons-individual-rgb-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\2.png",
+        "file": "Sustainable_Development_Goal_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sustainable_Development_Goal_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Idle-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/border-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\border-1.png",
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/USAbluefill-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\USAbluefill-1.png",
         "file": "assets/finding-picking-up-money-floor-male-hand-one-dollar-bill-ground-194233152.jpeg",
         "kind": "image",
         "metadata": "",
@@ -194,6 +469,10 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/PngItem_41856-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\PngItem_41856-13.png",
         "file": "assets/E_SDG-goals_icons-individual-rgb-01.png",
         "kind": "image",
         "metadata": "",
@@ -203,6 +482,10 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/chinabluefill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\chinabluefill.png",
         "file": "assets/1000_F_14145083_zj8UfPQbpt9IJGR1bu0lXcZzWEefXdwM.jpeg",
         "kind": "image",
         "metadata": "",
@@ -212,6 +495,10 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/somaliabluefill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\somaliabluefill.png",
         "file": "assets/E_SDG_goals_icons-individual-rgb-10.png",
         "kind": "image",
         "metadata": "",
@@ -285,6 +572,15 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/introduction"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/initialmap"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/finishing-scene"
       "referenceTo": "/layouts/america-ending-1"
     },
     {
@@ -303,6 +599,18 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/mousehelper"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/pixelperfectmovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/linearmovement"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
