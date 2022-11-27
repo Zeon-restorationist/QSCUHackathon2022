@@ -1,0 +1,49 @@
+{
+  "associatedLayout": "Scenario 2 (Somalia)",
+  "name": "Somalia Background Layout",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 602,
+      "layer": "",
+      "name": "SomaliaBackground",
+      "persistentUuid": "29f55402-6209-442c-a76d-2330709638c5",
+      "width": 803,
+      "x": -2,
+      "y": -1,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "GlobalScoreText",
+      "persistentUuid": "0046064a-ddd2-41f9-8e20-99b830963dab",
+      "width": 0,
+      "x": 276,
+      "y": 551,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 1,
+    "windowMask": false
+  }
+}

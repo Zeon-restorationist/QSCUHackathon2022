@@ -1,0 +1,64 @@
+{
+  "associatedLayout": "Scenario 1 (Somalia)",
+  "name": "Untitled external layout",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 91,
+      "layer": "",
+      "name": "GoodButton",
+      "persistentUuid": "f5c43c12-35bb-44c1-afab-b3834924e5f5",
+      "width": 220,
+      "x": 19,
+      "y": 416,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 94,
+      "layer": "",
+      "name": "OkayButton",
+      "persistentUuid": "bcd7943f-0de1-403f-9223-3a6751c375cb",
+      "width": 241,
+      "x": 261,
+      "y": 414,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 100,
+      "layer": "",
+      "name": "BadButton",
+      "persistentUuid": "a5270d58-ced0-4700-b067-8a9d631dde3c",
+      "width": 231,
+      "x": 536,
+      "y": 409,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 1,
+    "windowMask": false
+  }
+}
