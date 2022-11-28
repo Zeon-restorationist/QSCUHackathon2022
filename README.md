@@ -1,5 +1,5 @@
 # QSCUHackathon2022
-How to run
-Download game zip file for Mac or Windows
-Extract the files to your chosen directory
-Run the Sustainability game app and enjoy!
+1. How to run
+2. Download game zip file for Mac or Windows
+3. Extract the files to your chosen directory
+4. Run the Sustainability game app and enjoy!
